@@ -1,0 +1,4 @@
+name: AwesomePlugin
+version: '${project.version}'
+main: org.umair.awesomeplugin.AwesomePlugin
+api-version: '1.21'
